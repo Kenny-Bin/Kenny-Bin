@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&height=80)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+Kenny's+GitHub!👋)
 
-[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny-Bin)](https://github.com/anuraghazra/github-readme-stats)
+[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny-Bin)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Bin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Bin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Kenny-Bin/Kenny-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
