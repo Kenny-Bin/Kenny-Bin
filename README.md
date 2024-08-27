@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=85&text=Welcome%10to-nl-Kenny`s%10Github%10!&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=85&text=Welcome%20to-nl-Kenny`s%20Github%20!&fontAlign=80)
 
 <!--
 **Kenny-Bin/Kenny-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
