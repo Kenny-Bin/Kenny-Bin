@@ -4,7 +4,7 @@
 [![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny-Bin)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Bin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💪🏻 Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">  <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=PHP&logoColor=white">   
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=PHP&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">  <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=PHP&logoColor=white">   
 
 
 
