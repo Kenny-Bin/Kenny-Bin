@@ -4,7 +4,7 @@
 [![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny-Bin)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Bin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=PHP&logoColor=white">
 <!--
 **Kenny-Bin/Kenny-Bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
