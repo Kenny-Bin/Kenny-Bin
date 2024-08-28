@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&height=80)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+Kenny's+GitHub!👋)
 
+
+## 😺 My Github Stats
 [![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny-Bin)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Bin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💪🏻 Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">  <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=PHP&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
